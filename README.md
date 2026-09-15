@@ -4,6 +4,9 @@ This code was generated in the linked YouTube video about making a basic MCP ser
 Protect Your MCP Data With Auth Keys:
 [https://youtu.be/sEkD8_ZKUKE](https://youtu.be/sEkD8_ZKUKE)
 
+See the previous video with coding tutorial to write a basic MCP server:
+https://youtu.be/MfQx2uX6iCU
+
 
 ## About
 <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
