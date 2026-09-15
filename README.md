@@ -2,7 +2,7 @@
 This code was generated in the linked YouTube video about making a basic MCP server protected by an auth key.  The server code updates are very simple - integrating with Claude is a little confusing.  See more at:
 
 Protect Your MCP Data With Auth Keys:
-[https://youtu.be/sEkD8_ZKUKE](https://youtu.be/sEkD8_ZKUKE)
+https://youtu.be/kI4rFemShu0
 
 See the previous video with coding tutorial to write a basic MCP server:
 https://youtu.be/MfQx2uX6iCU
