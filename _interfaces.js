@@ -1,6 +1,6 @@
 
 
-const { data, devices, messages } = require('./data');
+const { data, devices, messages } = require('./_data');
 
 module.exports = {
 
