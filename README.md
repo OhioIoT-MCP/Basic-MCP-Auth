@@ -1,4 +1,4 @@
-# Basic MCP w/ Auth
+# Basic MCP w/ Auth<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 #### [(back to Organization Page)](https://github.com/OhioIoT-MCP)
 
 This code was generated in the linked YouTube video about making a basic MCP server protected by an auth key.  The server code updates are very simple - integrating with Claude is a little confusing.  See more at:
